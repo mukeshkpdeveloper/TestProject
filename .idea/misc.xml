@@ -3,9 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable-v24/ic_mount_unselect.xml" value="0.228" />
         <entry key="app/src/main/res/drawable/bg_custom_shape.xml" value="0.228" />
+        <entry key="app/src/main/res/drawable/bottom_nav_bg.xml" value="0.228" />
+        <entry key="app/src/main/res/drawable/ic_bottom_nav.xml" value="0.228" />
+        <entry key="app/src/main/res/drawable/ic_mount.xml" value="0.228" />
+        <entry key="app/src/main/res/drawable/ic_mount_unselect.xml" value="0.228" />
         <entry key="app/src/main/res/drawable/launcher_background.xml" value="0.228" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.33697916666666666" />
+        <entry key="app/src/main/res/drawable/nav_item_color_state.xml" value="0.228" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.33697916666666666" />
       </map>
     </option>
   </component>
