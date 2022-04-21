@@ -6,10 +6,10 @@
             <solid android:color="@color/white"/>
         </shape>
     </item>
-    <!--<item android:drawable="@drawable/cn_splash_bg" />
+   <!-- <item android:drawable="@color/white" />
     <item>
         <bitmap
             android:gravity="center"
-            android:src="@drawable/connect_splash_icon" />
+            android:src="@drawable/app_icon" />
     </item>-->
 </layer-list>
